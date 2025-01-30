@@ -1,7 +1,4 @@
 # Notes-V.II
-
-This web application is built using React as part of the submission for the Fundamental Web Application Development with React course on Dicoding. In this project, I implemented property validation, client routing, component lifecycle, React Context, and React Hooks to create a functional and efficient application.
-
 # Web Application - React
 
 This web application is a submission for the **Belajar Fundamental Aplikasi Web dengan React** course on Dicoding. The goal of this project is to build a web application that applies the concepts learned during the course, including property validation, client routing, component lifecycle, context, and hooks.
