@@ -21,8 +21,8 @@ This web application is a submission for the **Belajar Fundamental Aplikasi Web 
 
 ## Learning Material Breakdown
 
-- **Property Validation**: Learn how to validate component props using PropTypes (2 Hours 25 Minutes).
-- **React Router**: Learn how to implement easy client-side routing using the React Router ecosystem (4 Hours 25 Minutes).
-- **Component Lifecycle**: Learn how to use lifecycle methods to manage asynchronous processes like fetching data from APIs within components (5 Hours 5 Minutes).
-- **React Context**: Learn how to manage global state without prop drilling using React Context (2 Hours 5 Minutes).
-- **React Hooks**: Learn how to write cleaner and more efficient React code by maximizing the use of functional components with hooks (4 Hours 25 Minutes).
+- **Property Validation**: Learn how to validate component props using PropTypes.
+- **React Router**: Learn how to implement easy client-side routing using the React Router ecosystem.
+- **Component Lifecycle**: Learn how to use lifecycle methods to manage asynchronous processes like fetching data from APIs within components.
+- **React Context**: Learn how to manage global state without prop drilling using React Context.
+- **React Hooks**: Learn how to write cleaner and more efficient React code by maximizing the use of functional components with hooks.
